@@ -1,0 +1,116 @@
+{
+    "Chalice" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["Chalice"]
+    },
+    "WorstResponse" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["WorstResponse"]
+    },
+    "WorstDrawing" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["WorstDrawing"]
+    },
+    "GreedyNumber" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["GreedyNumber"]
+    },
+    "ShortestWord" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["ShortestWord"]
+    },
+    "MathChallenge" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["MathChallenge"]
+    },
+    "LoserWheel" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["LoserWheel"]
+    },
+    "HighLowDice" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["HighLowDice"]
+    },
+    "Arena" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["Arena"]
+    },
+    "FingerCut" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["FingerCut"]
+    },
+    "TakeMoney" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["TakeMoney"]
+    },
+    "RepeatSequence" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["RepeatSequence"]
+    },
+    "MemoryGrid" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["MemoryGrid"]
+    },
+    "DeathBlow" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "lockedMiniGames" : ["KillEverybodyTest"]
+    },
+    "Scoreboard" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "generateRandomScoresAfterQuestion" : true,
+        "lockedMiniGames" : ["Fake"]
+    },
+    "AutomaticallyDie" : {
+        "lockedMiniGames" : ["KillEverybodyTest"]
+    },
+    "FinalRound" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "generateRandomScoresAfterQuestion" : true,
+        "lockedMiniGames" : ["Fake"],
+        "skipToFinalRound" : true
+    },
+    "FinalRoundNoIntro" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "generateRandomScoresAfterQuestion" : true,
+        "lockedMiniGames" : ["Fake"],
+        "skipToFinalRound" : true,
+        "skipFinalRoundIntro" : true
+    },
+    "FinalLoserWheel" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "generateRandomScoresAfterQuestion" : true,
+        "lockedMiniGames" : ["Fake"],
+        "skipToFinalLoserWheel" : true
+    },
+    "EndGame" : {
+        "skipIntro" : true,
+        "skipQuestion" : true,
+        "generateRandomScoresAfterQuestion" : true,
+        "lockedMiniGames" : ["Fake"],
+        "skipToEndGame" : true
+    },
+    "SkipIntro" : {
+        "skipIntro" : true
+    },
+    "SkipScoreboard" : {
+        "skipScoreboard" : true
+    }
+}

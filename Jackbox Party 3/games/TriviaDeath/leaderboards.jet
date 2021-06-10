@@ -1,0 +1,56 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Estatísticas da sessão.",
+            "description": "Estatísticas da sessão de reprodução atual (essas estatísticas serão redefinidas quando você sair do jogo.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch Stats",
+            "description": "Estatísticas de jogos de Twitch (essas estatísticas são salvas mesmo depois de sair do jogo.)"
+        }
+    ],
+    "columns": [
+        {
+            "id": "playerName",
+            "name": "Nome do jogador",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "topScore",
+            "name": "Pontuação máxima",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "averageScore",
+            "name": "Pontuação média",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "gamesPlayed",
+            "name": "Vezes sequestrado",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "gamesWon",
+            "name": "Vezes que escapou",
+            "titleNumLines": 2
+        },
+        {
+            "id": "killingFloorsSurvived",
+            "name": "Numero de Andares que sobreviveu",
+            "titleNumLines": 2
+        },
+        {
+            "id": "questionsCorrect",
+            "name": "Perguntas corretas",
+            "titleNumLines": 2
+        },
+        {
+            "id": "charisma",
+            "name": "Carisma",
+            "titleNumLines": 2
+        }
+    ]
+}

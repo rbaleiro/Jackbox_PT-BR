@@ -1,0 +1,82 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 51,
+    "clip": "TDSettingsWidget",
+    "items": [
+        {
+            "title": "Volume de áudio.",
+            "type": "Range",
+            "clip": "TDSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Aumente ou diminua o volume"
+        },
+        {
+            "title": "Modo de vídeo em tela cheia",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Jogo em Tela cheia."
+        },
+        {
+            "title": "Público",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "AudienceOn",
+            "description": "Audiência em meios não jogadores podem se juntar e afetar o jogo."
+        },
+        {
+            "title": "Temporizadores estendidos",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "ExtendedTimers",
+            "description": "Os temporizadores estendidos lhe darão mais tempo para tomar decisões."
+        },
+        {
+            "title": "Requer conexão ao Twitch",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "Exigem que os jogadores sejam registrados em contração."
+        },
+        {
+            "title": "Pular tutoriais",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "SkipTutorial",
+            "description": "Pular as sessões de tutorial"
+        },
+        {
+            "title": "Sem escrita e modo de desenho",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "DisableUserEntryKillingFloors",
+            "description": "Este modo desabilita a escrita e desenho."
+        },
+        {
+            "title": "Jogar apenas com joystick",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "GamepadStart",
+            "description": "Os jogos devem ser iniciados com o joystick, não a partir de dispositivos externos."
+        },
+        {
+            "title": "Esconder código da sala",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "HideRoomCode",
+            "description": "Permita que o código da sala fique escondido na tela."
+        }
+    ]
+}
