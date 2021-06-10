@@ -1,0 +1,1270 @@
+{
+    "episodeid": 1266,
+    "content": [
+        {
+            "suggestion": "A única pergunta que você perguntaria ao velho homem sábio no topo da montanha",
+            "id": 40934,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você sempre ouve um Millenial dizer",
+            "id": 40176,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você veria em um outdoor no RJ",
+            "id": 40177,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você veria em um cartaz inspirador",
+            "id": 40181,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma sorte revelada por uma cartomante",
+            "id": 40185,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você diria durante um jogo de D&D",
+            "id": 40192,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você tinha ouvido em um parque temático da Turma da Mônica",
+            "id": 40193,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você gostaria de colocar seus cartões de visita",
+            "id": 40198,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você gostaria de ter em sua lápide",
+            "id": 40201,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma letra que poderia ser de um álbum Zeca Pagodinho",
+            "id": 40204,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "A primeira frase que você teria em sua autobiografia",
+            "id": 40205,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você ouviria alto na Convenção Nacional do PT",
+            "id": 40206,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um pirata provavelmente diz muito",
+            "id": 41094,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você teria no seu perfil de namoro online",
+            "id": 40207,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase curta que descreveria <i>Acompanhando a Família Lemann<\/i>",
+            "id": 40208,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um homem das cavernas diria",
+            "id": 40209,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um motorista de táxi terrível diria",
+            "id": 40308,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo de aviso que você veria no metrô",
+            "id": 40309,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você veria em um biscoito da sorte",
+            "id": 40310,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um trocadilho terrível",
+            "id": 40311,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O título para a sua autobiografia",
+            "id": 40313,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um juiz terrível diria",
+            "id": 40314,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Sua frase feita para ganhar um argumento",
+            "id": 40315,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "A primeira coisa que você vai ouvir quando você chegar ao céu",
+            "id": 40316,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você não quer ouvir um diretor funeral dizer",
+            "id": 40317,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Seu slogan de campanha se você concorrer para o presidente",
+            "id": 40318,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Frase que define o que você gostaria de ter ficado famoso no ensino médio",
+            "id": 40321,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você ouviria em um discurso de iniciação da faculdade",
+            "id": 40322,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que o Garfield diria",
+            "id": 40323,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você diria para obter a atenção de todos",
+            "id": 40324,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um cantor solo pode dizer",
+            "id": 40327,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "A frase que você veria em uma camiseta de turista gringo no RJ",
+            "id": 40328,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você diria para o Rodrigo Santoro",
+            "id": 40329,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que o Chaves provavelmente diria",
+            "id": 40330,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você diria em uma entrevista de emprego",
+            "id": 40331,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você sempre ouve de um atendente de telemarketing",
+            "id": 40334,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Sua postura na política",
+            "id": 40335,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você ouviria de um inapto salva-vidas gritar",
+            "id": 40336,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um lenhador astuto diria",
+            "id": 40338,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você diria para fazer alguém cuspir água",
+            "id": 40340,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um aviso em um comercial farmacêutico",
+            "id": 40706,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você dirá no seu leito de morte",
+            "id": 40707,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você diria como um negociador de refém",
+            "id": 40709,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um treinador de basquete grita",
+            "id": 40710,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode dizer para chamar um animal de estimação para você",
+            "id": 40711,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que o interior de um cartão-presente pode dizer",
+            "id": 40712,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um professor de 3ª série pode dizer a uma classe",
+            "id": 40713,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que uma babá ruim diz",
+            "id": 40714,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode dizer quando vê que está recebendo uma multa de estacionamento",
+            "id": 40715,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir um juiz em um show de cachorros dizer",
+            "id": 40716,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você ouviria em um comercial informativo",
+            "id": 40718,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um gato diria que se pudesse falar",
+            "id": 40720,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um médico pode dizer antes de te tratar",
+            "id": 40721,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Que pessoa bruta diria depois de ir ao banheiro",
+            "id": 40722,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Que lider universitário ruim diria",
+            "id": 40723,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O título de uma música sobre skate",
+            "id": 40724,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Conselhos que você gostaria de ter mais cedo na vida",
+            "id": 40725,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você poderia dizer imediatamente se você visse um ladrão",
+            "id": 40726,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você diz em pequena conversa",
+            "id": 40727,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um trabalhador de fast food tem muito a dizer",
+            "id": 40728,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que uma garota do tempo pode dizer na TV",
+            "id": 40729,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um narrador de futebol diria",
+            "id": 40730,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma anotação que sua mãe colocaria no almoço da escola",
+            "id": 40731,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que uma criança adorável diz",
+            "id": 40732,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você ouviria em um alto-falante interno de supermercado",
+            "id": 40733,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que uma musa terrível lhe diria",
+            "id": 40734,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você diz durante um término",
+            "id": 40736,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo um nerd chateado pode dizer",
+            "id": 40738,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um fotógrafo da família pode dizer",
+            "id": 40739,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um super vilão prestes a ganhar pode dizer",
+            "id": 40741,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa inspiradora para gritar com as pessoas correndo uma maratona",
+            "id": 40742,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir alguém gritando ao jogando Pokemon",
+            "id": 40744,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode dizer para alguém falando durante um filme",
+            "id": 40745,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode gritar em um concerto para sua banda favorita",
+            "id": 40747,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode perguntar a um anjo",
+            "id": 40748,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ver escrito em um banheiro químico",
+            "id": 40749,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ler em um cupom",
+            "id": 40751,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você pode ouvir durante um treinamento de incêndio",
+            "id": 40752,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir um personal trainer dizer",
+            "id": 40753,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir de um político reivindicando",
+            "id": 40755,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "A primeira coisa que você pensa na maioria das manhãs",
+            "id": 40836,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma pergunta que você faria ao presidente",
+            "id": 40837,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase melodramática",
+            "id": 40838,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode dizer para um encanador",
+            "id": 40840,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um policial pode lhe perguntar",
+            "id": 40841,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ler na caixa de um jogo de tabuleiro",
+            "id": 40842,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um apelido que você pode dar a um atleta do ensino médio",
+            "id": 40843,
+            "type": "Canned Slogan"
+        },
+        {
+            "suggestion": "Algo que você pode dizer durante uma massagem",
+            "id": 40844,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo de aviso alguém pode colocar na frente de sua casa",
+            "id": 40845,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa curta e motivacional que um treinador pode dizer",
+            "id": 40846,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você diria ao se casar",
+            "id": 40847,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um cabeleireiro pode lhe perguntar",
+            "id": 40849,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você pode ouvir no tribunal",
+            "id": 40850,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo que você pode ver perto de uma sala de encaixe em uma loja de roupas",
+            "id": 40852,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O gancho para sua piada favorita",
+            "id": 40853,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ler em uma garrafa de detergente de lavanderia",
+            "id": 40854,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um impertinente pode gritar em um show de comédia",
+            "id": 40855,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma indicação que você pode ler na biblioteca",
+            "id": 40856,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que uma criança pode gritar em uma longa viagem",
+            "id": 40858,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um slogan para um restaurante de fast food",
+            "id": 40859,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma indicação que você pode ler em um parque nacional",
+            "id": 40860,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Conselho que você pode ouvir de uma pessoa muito saudável",
+            "id": 40861,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um mago pode dizer para outro",
+            "id": 40862,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você gritou no trânsito",
+            "id": 40865,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma indicação que você veria em um parque aquático",
+            "id": 40866,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um professor de ginástica diria",
+            "id": 40867,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir um comissário de bordo dizer",
+            "id": 40868,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Qual a frase de assunto de um email de lixo eletrônico pode dizer",
+            "id": 40869,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo que você pode ler em uma praia popular",
+            "id": 40870,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um salva-vidas provavelmente diz muito",
+            "id": 40871,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ler em um pacote de hambúrgueres vegetarianos",
+            "id": 40872,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você poderia ouvir em uma igreja evangélica",
+            "id": 40873,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um astronauta em pânico pode dizer",
+            "id": 40874,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O título da sua música favorita dos anos 90",
+            "id": 40875,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ler em instruções de mobiliário",
+            "id": 40876,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que o Justin Bieber zangado poderia dizer",
+            "id": 40877,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa ruim para ouvir enquanto você está no banco",
+            "id": 40878,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que as pessoas provavelmente dizem quando visitam o Monte Roraima",
+            "id": 40879,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo ruim para um motorista de Uber dizer para você",
+            "id": 40880,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um esquisito pode gritar no metrô",
+            "id": 40881,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo que você pode ler no zoológico",
+            "id": 40882,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ler em um banner voado por um avião",
+            "id": 40883,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um ladrão de banco pode dizer depois de \u201cIsso é um assalto!\u201d",
+            "id": 40884,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O lema de qualquer estado, o melhor que você pode lembrar",
+            "id": 40885,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um piloto pode dizer antes de pousar",
+            "id": 40886,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um aviso que você pode ouvir em um relatório de tráfego matinal",
+            "id": 40887,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um slogan de super-heróis",
+            "id": 40888,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que as pessoas nos anos 60 provavelmente disseram muito",
+            "id": 40889,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um professor de jardim de infância provavelmente tem que dizer muito",
+            "id": 40890,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você poderia ouvir gritado em um bar de mergulho",
+            "id": 40891,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma pergunta que as pessoas costumam perguntar no aeroporto",
+            "id": 40892,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma famosa citação de qualquer presidente",
+            "id": 40893,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você normalmente ouve uma criança gritando em público",
+            "id": 40894,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir uma garota má na escola dizer",
+            "id": 40895,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ser perguntado ao obter uma carteira de motorista",
+            "id": 40897,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que todo filho pede a seus pais",
+            "id": 40898,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Conselhos que você recebeu de um pai",
+            "id": 40899,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode dizer quando vê o Grand Canyon",
+            "id": 40900,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ouvir batman dizer",
+            "id": 40901,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um garçom ou garçonete pode perguntar",
+            "id": 40902,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ouvir de um revendedor de carros",
+            "id": 40903,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode ouvir dentro de uma loja de quadrinhos",
+            "id": 40905,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo que você pode ler na Barça",
+            "id": 40906,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo de que você pode ver na sala de descanso da sua empresa",
+            "id": 40907,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Duas palavras que você pode ler em um pacote de chiclete",
+            "id": 40908,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que alguém pode dizer no Starbucks",
+            "id": 40909,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um adolescente pode gritar em um concerto de K-POP",
+            "id": 40910,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma declaração que você esperaria que Faustão faria",
+            "id": 40911,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você pode dizer durante uma cerimônia de casamento",
+            "id": 40912,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um texto curto que você enviou recentemente",
+            "id": 40913,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa comum a dizer em torno do natal",
+            "id": 40914,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo que você pode ler em um estacionamento",
+            "id": 40915,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo que você pode ver em um jogo de futebol",
+            "id": 40918,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um teórico da conspiração diria",
+            "id": 40919,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você esperaria Harry Potter dizer",
+            "id": 40920,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você não quer ouvir enquanto dentro de uma caverna",
+            "id": 40921,
+            "type": "Drawing Suggestion"
+        },
+        {
+            "suggestion": "O que as pessoas de São Paulo dizem muito",
+            "id": 40922,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que seu slogan seria se você fosse um lutador profissional?",
+            "id": 40923,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você diria para sair de um namoro",
+            "id": 40924,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um canto de torcida",
+            "id": 40925,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você diz em um walkie talkie",
+            "id": 40926,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que a Mona Lisa provavelmente está pensando",
+            "id": 40927,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que você não quer ouvir o presidente dizer",
+            "id": 41089,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um trocadilho engraçado um dentista faria",
+            "id": 40928,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma pergunta que você pode perguntar em uma farmácia",
+            "id": 41088,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir em uma festa de aniversário",
+            "id": 41090,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase um vendedor grita em um jogo de bola",
+            "id": 40929,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Quais suas últimas palavras podem ser",
+            "id": 40930,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Que cara musculoso pode dizer em uma academia",
+            "id": 41092,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um encantador de cachorros diz para os cães",
+            "id": 40931,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que o cristo redentor provavelmente está pensando?",
+            "id": 40932,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você grita em uma montanha-russa",
+            "id": 40935,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa estranha para uma boneca dizer",
+            "id": 40933,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Sua desculpa para falta de trabalho",
+            "id": 40936,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um advogado diz",
+            "id": 40937,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um guia de turismo diria",
+            "id": 40938,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "A última coisa que você gostaria de ouvir o seu médico dizer",
+            "id": 40939,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "A última coisa que você gostaria de ouvir o seu cabeleireiro dizer",
+            "id": 40940,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase Silvio Santos provavelmente tem sobre sua cama",
+            "id": 40941,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um agricultor diria",
+            "id": 40942,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa divertida para gritar em uma festa",
+            "id": 40943,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um bebê astuto pode dizer",
+            "id": 40944,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um barman poderia dizer quando está ficando tarde",
+            "id": 40979,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ser perguntado em uma lavagem de carros",
+            "id": 40980,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Seu slogan favorito de um cereal de café da manhã",
+            "id": 40981,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Conselhos que você pode obter de um avô",
+            "id": 40976,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um indicativo que você pode ver em uma caixa registradora",
+            "id": 40977,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ler em uma marca de camisa",
+            "id": 40982,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que seu dentista pode dizer",
+            "id": 40984,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que você pode ouvir em Paris",
+            "id": 40993,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode dizer ao fazer um sotaque nordestino",
+            "id": 40994,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que um vampiro pode dizer a você",
+            "id": 40995,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "um gancho para uma piada velha",
+            "id": 40997,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que um salva-vidas pode dizer",
+            "id": 40998,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa terrível para um jovem para dizer",
+            "id": 40999,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma pergunta que você pode receber em uma entrevista de emprego",
+            "id": 41000,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que você pode dizer ao pedir café",
+            "id": 41001,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um cartaz que você pode ler na biblioteca",
+            "id": 41002,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma placa que você pode ver na estrada",
+            "id": 41003,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O título de uma música infantil",
+            "id": 41004,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode dizer ao seu filho quando eles estão agindo",
+            "id": 41081,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "um comando que você pode gritar para um cachorro",
+            "id": 41082,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Que detetive pode dizer em uma cena do crime",
+            "id": 41083,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo gritado com uma luta livre",
+            "id": 41084,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma letra de uma antiga música de rock",
+            "id": 40945,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que poderia ser de uma música do Belchior",
+            "id": 40947,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma coisa boa para escrever em cimento molhado",
+            "id": 40948,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um padre ouve muito durante a confissão",
+            "id": 40949,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que um palhaço diz",
+            "id": 40950,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que o homem mais interessante do mundo diz",
+            "id": 40951,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase que você tinha ouvido em um festival",
+            "id": 40952,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você grita durante no ano novo",
+            "id": 40953,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase de uma conversa ruim",
+            "id": 40954,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma frase dos direitos da criança e adolescente",
+            "id": 40955,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um líder de escoteiro ruim diria",
+            "id": 40956,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você esperaria ouvir no programa do Chaves",
+            "id": 40959,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "uma mentira branca comum",
+            "id": 41111,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode dizer a um telemarketer irritante",
+            "id": 41112,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um guia de turismo de museu provavelmente diz muito",
+            "id": 41113,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Um cartaz motivacional que você viu recentemente",
+            "id": 41115,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um encantador de cavalos geralmente sussurra",
+            "id": 41116,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Que árbitro de futebol pode gritar durante um jogo",
+            "id": 41117,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um mecânico pode dizer para você",
+            "id": 41118,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um homem do tempo engraçado pode dizer",
+            "id": 41119,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um jogador incrível pode dizer",
+            "id": 41120,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir em uma dança do quadrado",
+            "id": 41121,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir o Bob Marley dizer",
+            "id": 41122,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "sua música de férias favorita",
+            "id": 41123,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode gritar para assustar um ladrão",
+            "id": 41124,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "uma frase de diálogo que você pode ouvir em uma novela",
+            "id": 41125,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Uma pergunta que você pode perguntar em um posto de gasolina",
+            "id": 41126,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode esperar que um sergipano grite",
+            "id": 41127,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode esperar que um paraibense diga",
+            "id": 41128,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que um teórico da conspiração pode dizer",
+            "id": 41129,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "um comando que você pode dar um robô",
+            "id": 41131,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que um mago pode dizer",
+            "id": 41136,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um cachorro falante pode dizer",
+            "id": 41137,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir aos gritos em um ring de boxe",
+            "id": 41138,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que você pode ouvir em um churrasco de bairro",
+            "id": 41139,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que um general do exército pode dizer",
+            "id": 41140,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um corredor de maratona está pensando no kilometro 50",
+            "id": 41141,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que uma senhora no parto poderia gritar",
+            "id": 41144,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um trilheiro assustado pode dizer",
+            "id": 41148,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que um domador de leão geralmente está pensando",
+            "id": 41149,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "algo que um soldado de guerra civil provavelmente disse",
+            "id": 41152,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "O que Pedro Alvarez Cabral provavelmente disse ao encontrar o Brasil",
+            "id": 41147,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "o que alguém pode pensar quando o Curupira aparece",
+            "id": 41145,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Seu slogan se você aparecesse na TV",
+            "id": 41238,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você veria em um adesivo de caminhão",
+            "id": 41237,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você ouviria em uma festa ruim",
+            "id": 41236,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que sua mãe sempre disse",
+            "id": 41235,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "Algo que você diria em um primeiro encontro",
+            "id": 41234,
+            "type": "Slogan Suggestion"
+        },
+        {
+            "suggestion": "uma mensagem de texto curta e romântica",
+            "id": 41130,
+            "type": "Slogan Suggestion"
+        }
+    ]
+}
