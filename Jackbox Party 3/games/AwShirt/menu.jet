@@ -1,0 +1,26 @@
+[
+    {
+        "title":"JOGAR",
+        "action":"doPlayGame",
+        "description":"Criar uma sala e jogar",
+        "value":0
+    },
+    {
+        "title":"PONTUAÇÃO",
+        "action":"doLeaderboards",
+        "description":"Ver a pontuação recente dos jogos",
+        "value":1
+    },
+    {
+        "title":"CONFIGURAÇÕES",
+        "action":"doSettings",
+        "description":"Censura, audiência e mais",
+        "value":2
+    },
+    {
+        "title":"VOLTAR AO PACOTE",
+        "action":"doBackToPack",
+        "description":"Voltar à lista de jogos",
+        "value":3
+    }
+]

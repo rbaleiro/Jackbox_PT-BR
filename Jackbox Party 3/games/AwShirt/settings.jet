@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "AwShirtSettingsWidget",
+    "items": [
+        {
+            "title": "Volume",
+            "type": "Range",
+            "clip": "AwShirtSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Aumenta ou diminui o som do jogo"
+        },
+        {
+            "title": "Tela cheia",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Faça o jogo ficar em tela completa ..."
+        },
+        {
+            "title": "Treino rapido",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtQuickTraining",
+            "description": "Os jogadores jogam três vezes em vez de quatro, e o tempo de escrita é mais curto. Bom para jogos transmitidos."
+        },
+        {
+            "title": "Platéia",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceOn",
+            "description": "Ligue para permitir que os não-jogadores se juntem e afetem o jogo."
+        },
+        {
+            "title": "Sugestões da platéia",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceSuggestions",
+            "description": "Enquanto os jogadores desenham e escrevem, o público pode inserir sugestões que aparecem na tela."
+        },
+        {
+            "title": "Aumentar tempo",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtExtendedTimers",
+            "description": "Ativar tempo prolongado. Recomendado apenas para jogos transmitidos."
+        },
+        {
+            "title": "Exigir twitch",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtRequireTwitch",
+            "description": "Exigir que os jogadores sejam registrados no twich para se juntar ao jogo.Recomendado apenas para jogos transmitidos."
+        },
+        {
+            "title": "Censura Manual",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtCensorable",
+            "description": "Permite que o VIP (primeiro jogador a entrar) censure as respostas dos jogadores."
+        },
+        {
+            "title": "Apenas jogar com controle",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtGamepadStart",
+            "description": "Os jogos devem ser iniciados com o controle neste computador e não remotamente"
+        },
+        {
+            "title": "Esconder código de jogo",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtHideRoomCode",
+            "description": "Permitir que o código de sala seja escondido para impedir que os jogadores se juntem cedo.Recomendado apenas para jogos transmitidos."
+        }
+    ]
+}
